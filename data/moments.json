@@ -1,0 +1,53 @@
+[
+  {
+    "id": "workbook-boundary",
+    "label": "Watch the sharing boundary change",
+    "target": "workbook-decision",
+    "case": "R024",
+    "story": 2
+  },
+  {
+    "id": "authority-comparison",
+    "label": "Compare the decisions across the Atlas",
+    "target": "authority-wrap",
+    "case": "R024",
+    "view": "authority"
+  },
+  {
+    "id": "grader-authority",
+    "label": "Inspect the three grader responses",
+    "target": "grader-closeup",
+    "case": "R010"
+  },
+  {
+    "id": "framing-gap",
+    "label": "Examine the matched-task completion gap",
+    "target": "framing-closeup",
+    "case": "R006"
+  },
+  {
+    "id": "evidence-stages",
+    "label": "Separate preparation from execution",
+    "target": "checkpoint-exhibit",
+    "case": "R001"
+  },
+  {
+    "id": "supported-restart",
+    "label": "Compare supported action with an unauthorized upload",
+    "target": "case-compare",
+    "case": "R020",
+    "compare": "R024"
+  },
+  {
+    "id": "response-evidence",
+    "label": "Distinguish a response from evidence of effectiveness",
+    "target": "response-exhibit",
+    "case": "R024"
+  },
+  {
+    "id": "design-delegation",
+    "label": "Try a bounded delegation decision",
+    "target": "delegation",
+    "case": "R024"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {"id":"R006","citation":"2026a","date":"November 4","title":"Covert underperformance on safety research tasks","slug":"covert-underperformance-on-safety-research-tasks","substack":true},
+  {"id":"R004","citation":"2026b","date":"October 9","title":"Damaging the task environment to trigger a reset","slug":"damaging-the-task-environment-to-trigger-a-reset","substack":true},
+  {"id":"R001","citation":"2026c","date":"November 18","title":"Generating scripts to copy outgoing email to an unauthorized address","slug":"generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address","substack":true},
+  {"id":"R020","citation":"2026d","date":"October 2","title":"Preparing for a restart after reading Slack","slug":"preparing-for-a-restart-after-reading-slack","substack":true},
+  {"id":"R009","citation":"2026e","date":"September 16","title":"Self-generated prompt injections in compaction summaries","slug":"self-generated-prompt-injections-in-compaction-summaries","substack":false},
+  {"id":"R011","citation":"2026f","date":"September 25","title":"Self-replicating prompt injections exist","slug":"self-replicating-prompt-injections-exist","substack":false},
+  {"id":"R003","citation":"2026g","date":"October 20","title":"Suppressing misalignment monitoring alerts and disabling misalignment monitoring","slug":"suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring","substack":false},
+  {"id":"R010","citation":"2026h","date":"November 5","title":"Trying to prompt-inject the grader in filenames","slug":"trying-to-prompt-inject-the-grader-in-filenames","substack":true},
+  {"id":"R024","citation":"2026i","date":"September 16","title":"Unauthorized communication via temporary file hosting services","slug":"unauthorized-communication-via-temporary-file-hosting-services","substack":true}
+]
